@@ -91,7 +91,7 @@ const Wishes = () => {
     <div className="w-full min-h-screen bg-main bg-cover bg-left ">
       <Navbar />
       <div className="w-full min-h-screen bg-black bg-opacity-20 flex flex-col gap-5 items-center p-5">
-        <h1 className="font-Open text-primary text-3xl text-center">
+        <h1 className="font-Open text-white text-3xl text-center">
           Ucapkan Sesuatu Yang Baik Untuk Kami
         </h1>
         <form
