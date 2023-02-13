@@ -11,8 +11,8 @@ const WelcomeCard = () => {
         <div className="max-w-2xl w-full flex flex-col gap-4 items-center mx-auto">
           <img src="img/mempelai.png" alt="Mempelai" className="w-36" />
           <h1 className="font-shalimar font-bold text-5xl">
-            <span className="text-white">Irfan</span> &{" "}
-            <span className="text-slate-300">Irma</span>
+            <span className="text-white">Riri</span> &{" "}
+            <span className="text-slate-300">Imma</span>
           </h1>
           <p className="text-white font-Poppins">Kepada Bapak/Ibu/Saudara/I</p>
           <h1 className="text-white text-lg font-Bree">{nama}</h1>

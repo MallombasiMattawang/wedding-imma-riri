@@ -27,15 +27,15 @@ const Event = () => {
                text-center"
               >
                 <h2>Bertempat Di</h2>
-                <p>Kediaman Mempelai Wanita, Jl. Poros Makassar - Pare Mandalle Utara Pangkep</p>
+                <p>Kediaman Mempelai Wanita, Jl. Lanto Dg Pasewang Lr.1/7, Bulukumba</p>
               </div>
               <div className="flex flex-col items-center justify-center text-center text-black font-Open">
                 <div className="w-20 h-20 bg-primary rounded-full flex items-center justify-center">
                   <RiCalendarEventLine color="white" size={40} />
                 </div>
                 <p>
-                  Rabu <br />
-                  01 Maret 2023
+                  Sabtu <br />
+                  04 Maret 2023
                 </p>
               </div>
               <div className="flex flex-col items-center justify-center text-center text-black font-Open">
@@ -57,7 +57,7 @@ const Event = () => {
                text-center"
               >
                 <h2>Bertempat Di</h2>
-                <p>Jalan. Lanto Dg Pasewang Lr.1/7, Bulukumba (Depan Abbana Cafe)</p>
+                <p>Jl. Lanto Dg Pasewang Lr.1/7, Bulukumba (Depan Abbana Cafe)</p>
               </div>
               <div className="flex flex-col items-center justify-center text-center text-black font-Open">
                 <div className="w-20 h-20 bg-primary rounded-full flex items-center justify-center">

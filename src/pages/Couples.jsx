@@ -38,15 +38,15 @@ const Couples = () => {
                 alt="Pria"
                 className="w-24 h-28 top-0"
               />
-              <h1 className="font-shalimar text-5xl text-slate-300">Irfan</h1>
-              <h1 className="font-Bree text-2xl text-white text-center">Muhammad Irfan Ibnu, S.Kom</h1>
+              <h1 className="font-shalimar text-5xl text-slate-300">Riri</h1>
+              <h1 className="font-Bree text-2xl text-white text-center">Achmad Syarif Rusdi</h1>
               {/* <p className="font-Poppins text-white text-center">
                 Putra Ke Dua <br /> Dari Kedua Orang Tuanya
               </p> */}
-              {/* <AiOutlineInstagram size={60} color="white" /> */}
-              {/* <small className="font-Bree text-xl text-white">
-                @mpampam
-              </small> */}
+              <AiOutlineInstagram size={60} color="white" />
+              <small className="font-Bree text-xl text-white">
+                @achmad_8691
+              </small>
             </AnimationOnScroll>
           </div>
 
@@ -63,15 +63,15 @@ const Couples = () => {
                 alt="Pria"
                 className="w-24 h-28 top-0"
               />
-              <h1 className="font-shalimar text-5xl text-slate-300">Irma</h1>
-              <h1 className="font-Bree text-2xl text-white">Irmawati, S.Kom</h1>
+              <h1 className="font-shalimar text-5xl text-slate-300">Imma</h1>
+              <h1 className="font-Bree text-2xl text-white">Irmawati Ibnu, S.S</h1>
               {/* <p className="font-Poppins text-white text-center">
                 Putri Ke Tiga <br /> Dari Kedua Orang Tuanya
               </p> */}
-              {/* <AiOutlineInstagram size={60} color="white" />
+              <AiOutlineInstagram size={60} color="white" />
               <small className="font-Bree text-xl text-white">
-                @onepieceUta
-              </small> */}
+                @irmha007
+              </small>
             </AnimationOnScroll>
           </div>
         </div>
